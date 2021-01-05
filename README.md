@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am writing python programs for knowledge and fun
-- I’m currently learning Mobile App Development in Flutter
+- I am currently learning Mobile App Development in Flutter
 - How to reach me:
   [Gmail](mailto://aakash.gtm143@gmail.com) ,
 
